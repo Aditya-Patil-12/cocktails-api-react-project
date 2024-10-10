@@ -6,7 +6,7 @@ const About = () => {
       <div className="about-section">
         <h1 className="section-title">About Us</h1>
         <p>
-          Introducing "Cocktail DB," the ultimate party sidekick app that
+          ntroducing "Cocktail DB," the ultimate party sidekick app that
           fetches cocktails from the hilarious Cocktails DB API. With a flick of
           your finger, you'll unlock a treasure trove of enchanting drink
           recipes that'll make your taste buds dance and your friends jump with
