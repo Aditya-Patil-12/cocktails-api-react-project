@@ -6,8 +6,8 @@ import { BrowserRouter as Router,Route,Routes } from "react-router-dom";
 // import pages .....
 import About from "./pages/About";
 import Home from "./pages/Home";
+import Error from "./pages/Error";
 import SingleCocktail from "./pages/SingleCocktail"; 
-import Error from "./pages/error";
 // import components ....
 import Navbar from "./components/Navbar";
 function App() {
