@@ -4,8 +4,8 @@ import React from "react";
 import { BrowserRouter as Router,Route,Routes } from "react-router-dom";
 
 // import pages .....
-import About from "./pages/about";
-import Home from "./pages/home";
+import About from "./pages/About";
+import Home from "./pages/Home";
 import SingleCocktail from "./pages/SingleCocktail"; 
 import Error from "./pages/error";
 // import components ....
